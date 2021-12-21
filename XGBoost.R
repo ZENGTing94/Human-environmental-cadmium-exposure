@@ -1,4 +1,4 @@
-#Project:Application of machine learning algorithms to predict human environmental cadmium exposure based on urine metabolic profiles
+#Project:Application of machine learning algorithms to predict environmental cadmium exposure of humans based on urine metabolic profiles 
 #Title:XGBoost
 #Data:November 2021
 
