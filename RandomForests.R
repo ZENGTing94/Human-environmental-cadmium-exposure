@@ -1,4 +1,4 @@
-#Project:Application of machine learning algorithms to predict environmental cadmium exposure of humans based on urine metabolic profiles 
+#Project:Application of machine learning algorithms to screen potential biomarkers under cadmium exposure based on human urine metabolic profiles
 #Title:RandomForests
 #Data:November 2021
 
